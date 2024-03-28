@@ -3,8 +3,7 @@
 1. CREATE YOUR PROJECT FOLDER AND OPEN IT WITH YOUR CODE EDITOR
 
 2. INITIALIZE AND INSTALL THE FOLLOWING TOOLS:  
-> npm install express
-> npm install body-parse
+> npm install express body-parse Sqlite3
 
 3. CREATE MODELS FOLDER AND DEFINE YOUR MODELS. i.e User.js 
 
